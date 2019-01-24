@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+
+}
+
+.inlogform {}
+
+
+.loginButton {
+
+    background-color: white;
+    border-style: none;
+}
+
+
+.inlogLanding {
+
+    background-color: grey;
+    height: 100vh;
+    width: 100vw;
+    text-align: center;
+
+}
+
+.username {
+
+    margin: auto;
+    width: 20%;
+    height: 10%;
+}
+
+.titelCMS {
+
+    color: black;
+
+    font-size: 400%;
+}
